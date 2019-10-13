@@ -23,10 +23,9 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  family_kids = ["Cassidy", "Brice Jr.", "Jordan", "Zoe"]
+  
 end
 
-family_kids(1)
 
 def retrieve_first_element_from_array(array)
   
